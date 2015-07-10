@@ -7,7 +7,7 @@ Since it is time-consuming and complicated to install all the dependencied for `
 
 ### Setup the Vagrant Box
 
-1. Donload and install [Vagrant](http://www.vagrantup.com/downloads.html)
+1. Download and install [Vagrant](http://www.vagrantup.com/downloads.html)
 2. Make sure you have [VirtualBox](https://www.virtualbox.org/) installed
 3. Place `Vagrantfile` from the repo in a directory from which you have access to the JPEGs you'd like to optimize
 4. Run `vagrant up` in the directory with the `Vagrantfile` (this will create a VM in VirtualBox and install the utilities)
